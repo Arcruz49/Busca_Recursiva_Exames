@@ -12,3 +12,4 @@ C:\Users\Arthur Cruz\Documents\projetos pessoais\Busca_Recursiva\Busca_Recursiva
 C:\Users\Arthur Cruz\Documents\projetos pessoais\Busca_Recursiva\Busca_Recursiva\obj\Debug\net8.0\Busca_Recursiva.pdb
 C:\Users\Arthur Cruz\Documents\projetos pessoais\Busca_Recursiva\Busca_Recursiva\obj\Debug\net8.0\Busca_Recursiva.genruntimeconfig.cache
 C:\Users\Arthur Cruz\Documents\projetos pessoais\Busca_Recursiva\Busca_Recursiva\obj\Debug\net8.0\ref\Busca_Recursiva.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Busca_Recursiva\Busca_Recursiva\obj\Debug\net8.0\Busca_Recursiva.sourcelink.json

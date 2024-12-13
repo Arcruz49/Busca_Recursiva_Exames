@@ -4,7 +4,6 @@
 // como um exame composto pode ter n exames, que também podem ser compostos, preciso validar se um exame simples já foi marcado em algum outro exame. 
 
 using System;
-
 namespace Busca_Recursiva
 {
     class Program
@@ -52,7 +51,7 @@ namespace Busca_Recursiva
         {
             foreach (Exame item in exames)
             {
-                if (item.Name.Equals(exame.Name, StringComparison.OrdinalIgnoreCase)) return true;
+                if (item.Name.Equals(exame.Name)) return true;
 
                 if (item.Servicos.Count > 0)
                 {
